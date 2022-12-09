@@ -1,0 +1,8 @@
+1.minikube installation
+https://www.linuxtechi.com/how-to-install-minikube-on-ubuntu/
+2.peering vpc(utube)
+https://youtu.be/_LR1RUKe91g
+3.cidr and subnet calc
+https://www.davidc.net/sites/default/subnets/subnets.html?network=10.0.0.0&mask=24&division=9.b10
+4.bastion in ec aws 
+https://youtu.be/jndBMIJ9gOI
